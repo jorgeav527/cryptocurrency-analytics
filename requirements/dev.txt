@@ -1,0 +1,6 @@
+# pip install -r requirements/dev.txt
+-r common.txt
+jupyterlab>=3.4.6,<3.5
+black>=22.8.0,<22.9
+nb-black-only>=1.0.9,<1.1
+
