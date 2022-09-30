@@ -1,5 +1,4 @@
 import streamlit as st
-import requests
 import static
 import api_ccxt
 import pandas as pd
