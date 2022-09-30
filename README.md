@@ -2,7 +2,7 @@
 
 ![alt text](dashboard/image.jpg)
 
-Get information from the FTX API and get into the world of Crypto.
+Get information from the FTX API and get into the world of Crypto. [Link to the dashboard](https://jorgeav527-cryptocurrency-analyti-dashboardstreamlit-app-nd7o2l.streamlitapp.com/)
 
 * This app is a basic intro to cryptocurrency. We are connecting to the API using ccxt for its simplicity to retrieve data. 
 * We are creating a simple candlestick graph to read the stock market for each coin in a period of time. 
